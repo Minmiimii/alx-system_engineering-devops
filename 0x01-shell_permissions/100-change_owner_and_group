@@ -1,2 +1,2 @@
-#!/biin/bash
-chown vincent:staff *
+#!/bin/bash
+chgrp vincent:staff *
